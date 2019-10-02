@@ -1,3 +1,5 @@
+![](MaterialOcean.gif)
+
 ### Installation:
 
 - Download Swift Installer from the [Google Play Store](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller)
@@ -5,4 +7,3 @@
 - Confirm the changes and select those apps in which you want to apply the Material Ocean theme
 - Enjoy!
 
-![](MaterialOcean.gif)
