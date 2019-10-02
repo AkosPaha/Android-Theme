@@ -7,3 +7,6 @@
 - Confirm the changes and select those apps in which you want to apply the Material Ocean theme
 - Enjoy!
 
+### License:
+
+Licensed Under [GNU’s GPL version 3](https://github.com/PrateekPunetha/Android-Theme/blob/master/LICENSE)
