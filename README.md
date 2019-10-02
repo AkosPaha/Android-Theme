@@ -5,4 +5,4 @@
 - Confirm the changes and select those apps in which you want to apply the Material Ocean theme
 - Enjoy!
 
-![](https://raw.githubusercontent.com/PrateekPunetha/Swift-Installer/master/MaterialOcean.swiftinstaller-theme.png)
+![](MaterialOcean.gif)
