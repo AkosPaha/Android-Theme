@@ -9,4 +9,4 @@
 
 ### License:
 
-Licensed Under [GNU’s GPL version 3](https://github.com/PrateekPunetha/Android-Theme/blob/master/LICENSE)
+Licensed Under [GNU’s GPL version 3](https://github.com/material-ocean/Material-Ocean/blob/master/LICENSE)
